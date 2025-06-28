@@ -1,12 +1,13 @@
-# main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Tech Projects"
+    url: /categories/#tech_projects
+  - title: "Teaching Education"
+    url: /categories/#teaching_education
+  - title: "Talks Events"
+    url: /categories/#talks_events
+  - title: "Women in Tech"
+    url: /categories/#women_in_tech
+  - title: "Career Development"
+    url: /categories/#career_development
+  - title: "All Categories"
+    url: /categories
