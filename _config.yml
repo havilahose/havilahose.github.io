@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Havilah Ose"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am a dedicated woman in tech with a BSc in Computer Science and a Master’s in Data Science and AI. I am active in BCSWomen, the Tech Women Club, and the Research and Coding Club. I was one of only two selected to present at the Ada Lovelace Colloquium, reflecting my commitment to advancing the field. I currently teach in the education sector while undertaking a QTS PGCE. At Edge Hill University, I also serve as a student advisor and mentor students through seminars and workshops. As a STEM Society member, I aim to drive innovation and support the next generation of tech talent."
   location         : "Somewhere"
   email            :
   links:
