@@ -1,6 +1,6 @@
 main:
   - title: "Tech Projects"
-    url: /categories/#tech_projects
+    url: /tech-projects/
   - title: "Teaching Education"
     url: /categories/#teaching_education
   - title: "Talks Events"
