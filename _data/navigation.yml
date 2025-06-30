@@ -2,7 +2,7 @@ main:
   - title: "Tech Projects"
     url: /tech-projects/
   - title: "Teaching & Education"
-    url: /categories/#teaching_education
+    url: /teaching/
   - title: "Talks Events"
     url: /categories/#talks_events
   - title: "Women in Tech"
