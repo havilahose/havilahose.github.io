@@ -54,7 +54,7 @@ Add custom Tech Projects page
 
 ### 📊 Correlation Matrix
 
-![Correlation Matrix](https://github.com/havilahose/havilahose.github.io/blob/master/assets/images/heart-disease/Correlation-Matrix.png)
+![Correlation Matrix](../assets/images/heart-disease/Correlation-Matrix.png)
 
 ---
 
