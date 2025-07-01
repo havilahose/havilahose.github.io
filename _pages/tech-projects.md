@@ -52,3 +52,14 @@ A machine learning project predicting cardiovascular disease from anonymized hea
 
 Add custom Tech Projects page
 
+### 📊 Correlation Matrix
+
+![Correlation Matrix](https://github.com/havilahose/havilahose.github.io/blob/master/assets/images/heart-disease/Correlation-Matrix.png)
+
+---
+
+### 🔥 Feature Importance Plot
+
+![Feature Importance](../assets/images/heart-disease/feature_importance.png)
+
+https://github.com/havilahose/havilahose.github.io/blob/master/assets/images/heart-disease/Correlation-Matrix.png
