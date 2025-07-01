@@ -50,16 +50,34 @@ A machine learning project predicting cardiovascular disease from anonymized hea
 
 ---
 
-Add custom Tech Projects page
 
-### 📊 Correlation Matrix
+
+##  Correlation Matrix
 
 ![Correlation Matrix](../assets/images/heart-disease/Correlation-Matrix.png)
+### The heatmap shows the correlations between numerical features. Some features like height and weight have a notable correlation, as expected.
+
 
 ---
 
-### 🔥 Feature Importance Plot
+##  Distribution of General Health
 
-![Feature Importance](../assets/images/heart-disease/feature_importance.png)
+![Distribution of General Health](../assets/images/heart-disease/Distribution-of-General-Health.png)
 
-https://github.com/havilahose/havilahose.github.io/blob/master/assets/images/heart-disease/Correlation-Matrix.png
+### The majority of respondents reported their general health as "Very Good" and "Good".
+
+---
+
+##  Heart Disease Prevalence
+
+![Heart Disease Prevalence](../assets/images/heart-disease/Heart-Disease-Prevalence.png)
+
+### There are significantly more respondents without heart disease compared to those with heart disease.
+
+---
+
+##  Distribution of BMI
+
+![Distribution of BMI](../assets/images/heart-disease/Distribution-of-BMI.png)
+
+### The BMI distribution is slightly right-skewed, with a peak around the normal BMI range.
