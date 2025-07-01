@@ -103,7 +103,9 @@ analytics:
 author:
   name             : "Havilah Ose"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a dedicated woman in tech with a BSc in Computer Science and a Master’s in Data Science and AI. I am active in BCSWomen, the Tech Women Club, and the Research and Coding Club. I was one of only two selected to present at the Ada Lovelace Colloquium, reflecting my commitment to advancing the field. I currently teach in the education sector while undertaking a QTS PGCE. At Edge Hill University, I also serve as a student advisor and mentor students through seminars and workshops. As a STEM Society member, I aim to drive innovation and support the next generation of tech talent."
+  bio              : "I’m a data scientist, AI specialist, and dedicated educator with a BSc in Computer Science and a Master’s in Data Science and Artificial Intelligence. I currently teach and tutor in the education sector while completing a PGCE with QTS accreditation, combining technical expertise with a deep understanding of pedagogy.
+  My background spans machine learning, data analytics, and educational innovation. I'm an active member of BCSWomen, the Tech Women Club, and the Research and Coding Club. I was one of only two selected to present at the Ada Lovelace Colloquium an experience that reflects my commitment to advancing both technology and inclusion.
+  As a STEM Society member, I aim to drive innovation where AI meets education developing inclusive, intelligent technologies that empower the next generation of learners and leaders. I’m especially interested in future roles that integrate AI, research, and EdTech to transform how knowledge is accessed and delivered."
   location         : "United Kingdom"
   email            : "oriazowanhavilah@gmail.com"
   links:
