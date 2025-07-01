@@ -49,6 +49,6 @@ I believe every student has the ability to succeed when learning is made **engag
 
 ---
 
-## 📥 Teaching Resources (Coming Soon)
+##  Teaching Resources (Coming Soon)
 I plan to share downloadable lesson slides, revision worksheets, and computing projects for students and new teachers.
 
